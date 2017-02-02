@@ -1,2 +1,2 @@
-# tweet-count-poisson-blog
-Code for scraping tweets and using Poisson process for prediction
+# Tweet counts as Poisson processes
+Python code for scraping Trump tweets, R code for predicting with Poisson process. Predictions are then compared to those on <a href='https://www.predictit.org/Market/2934/How-many-tweets-will-%40realDonaldTrump-post-from-noon-Feb-1-to-noon-Feb-8'>PredictIt</a> to make bets. Used to generate plots for blog post <a href='http://keyonvafa.com/tweet-counts-poisson-processes/'>Tweet Counts as Poisson Processes</a>.
