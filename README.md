@@ -1,4 +1,4 @@
-# Tweet counts as Poisson processes
+# Predicting Trump's tweet counts
 
 `scrape_tweets.py` scrapes Trump tweets from Twitter, stored at `trump_tweets.csv`.
 
