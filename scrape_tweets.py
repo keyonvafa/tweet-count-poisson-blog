@@ -19,7 +19,7 @@ api = tweepy.API(auth)
 
 dates = []
 tweets = []
-lis = [827207267632164868] 
+lis = [830195857530183684] ## most recent tweet id
 for i in range(0, 9): ## get last 1800 tweets
     print("ITERATION", i)
     user_timeline = api.user_timeline(screen_name="realDonaldTrump",count=200, include_retweets=False, max_id=lis[-1])
